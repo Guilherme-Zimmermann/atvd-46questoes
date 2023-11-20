@@ -107,25 +107,25 @@ public class Application {
             // System.out.println();
             // System.out.println("Quantidade de números lidos: " + cont);
 
-	// 	10. Escreva um programa que leia um array de números do usuário até que o usuário insira
-	// 	um número repetido. Em seguida, imprima a quantidade de números lidos antes da
-	// 	repetição.
-		
-        // Set<Integer> list = new HashSet<>();
-        // int cont = 0;
+        // 	10. Escreva um programa que leia um array de números do usuário até que o usuário insira
+        // 	um número repetido. Em seguida, imprima a quantidade de números lidos antes da
+        // 	repetição.
+            
+            // Set<Integer> list = new HashSet<>();
+            // int cont = 0;
 
-        // while (true) {
-        //     System.out.print("Insira um número: ");
-        //     int n = sc.nextInt();
+            // while (true) {
+            //     System.out.print("Insira um número: ");
+            //     int n = sc.nextInt();
 
-        //     if (list.contains(n)) {
-        //         break;
-        //     }
-        //     list.add(n);
-        //     cont++;
-        // }
-        // System.out.println("Você inseriu um número duplicado, programa encerrado!");
-        // System.out.println("A quantidade de números inseridos foi de: " + cont);
+            //     if (list.contains(n)) {
+            //         break;
+            //     }
+            //     list.add(n);
+            //     cont++;
+            // }
+            // System.out.println("Você inseriu um número duplicado, programa encerrado!");
+            // System.out.println("A quantidade de números inseridos foi de: " + cont);
 
         // 11. Crie um programa que leia 10 números do usuário e imprima o menor deles.
             // int menor = 0;
@@ -689,7 +689,7 @@ public class Application {
 
             // System.out.println(criptografar(msg, k));
 
-            sc.close();
+        sc.close();
     }
 
     // Método para ver se o número é primo
